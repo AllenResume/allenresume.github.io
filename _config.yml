@@ -1,4 +1,3 @@
-encoding: UTF-8
 # Site settings
 title: Allen's Resume
 description: My resume.
@@ -6,9 +5,9 @@ description: My resume.
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Allen Jia
+username: Allen Jia¼Ö
 user_description: Veteran, Assistant of Udacity Data Analysis Nanodegree, Data Analyst(future), Lifelong learner.
-user_title: Veteran | Data Analyst(future)
+user_title: Data Analyst(future)
 email: allenjsj@163.com
 github_username: CapAllen
 
@@ -18,3 +17,4 @@ google-analytics:
   id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
+encoding: UTF-8
